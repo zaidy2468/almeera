@@ -1,0 +1,1908 @@
+[
+    {
+        "category_name": "Deals",
+        "category_img_url": "//almeera.online/var/images/category/383.400/For%20email%20campaign.jpg",
+        "subcategory_name": "Weekly Deals",
+        "subcategory_img_url": "//almeera.online/var/images/category/383.400/Deals%20cover.png",
+        "products": [
+            {
+                "product_name": "deals/crystal-hot-sauce-88-ml",
+                "product_img_url": "//almeera.online/var/images/product/200.220/048400809045.jpg",
+                "product_price": "QAR2.25"
+            },
+            {
+                "product_name": "deals/anchor-milk-pwdr-400gm",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9415007017448_1.jpg",
+                "product_price": "QAR17.25"
+            },
+            {
+                "product_name": "deals/al-meera-wht-meat-tuna-in-brine4x185g",
+                "product_img_url": "//almeera.online/var/images/product/200.220/6085010155364.jpg",
+                "product_price": "QAR19.75"
+            },
+            {
+                "product_name": "deals/lotus-jasmine-rice-5kg",
+                "product_img_url": "//almeera.online/var/images/product/200.220/8938501920126.jpg",
+                "product_price": "QAR18.75"
+            },
+            {
+                "product_name": "deals/rainbow-evap-milk-fortifd170gm",
+                "product_img_url": "//almeera.online/var/images/product/200.220/8716200674942.jpg",
+                "product_price": "QAR2.50"
+            }
+        ],
+        "images": [
+            {
+                "url": "https://almeera.online/var/images/product/200.220/048400809045.jpg",
+                "path": "full/45a5688929dd6164d3db65d9ab2d6d814724880c.jpg",
+                "checksum": "cd972bf5ef09aaa726f00fbc3e5ae522",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9415007017448_1.jpg",
+                "path": "full/8709cc9fdafb68f06e32651f9e1a89eda0a0efed.jpg",
+                "checksum": "2e0397f97326b90dea9ee9b605293545",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/6085010155364.jpg",
+                "path": "full/7ccdd32f9b149ccefe9c30d0d64e4fd193f5d414.jpg",
+                "checksum": "82478d467b1d0eb18920c9dfb8034e8a",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/8938501920126.jpg",
+                "path": "full/2be1995f82a38aab4f859b04bc02b1fb628b9ad1.jpg",
+                "checksum": "dc5a379ea669b98104ee02264b3381e2",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/8716200674942.jpg",
+                "path": "full/f4e7d45106bad30e1dbb35615ad44af76282348a.jpg",
+                "checksum": "c7cf8722005944a435136b912e94dbb9",
+                "status": "uptodate"
+            }
+        ]
+    },
+    {
+        "category_name": "Fruits & Vegetables",
+        "category_img_url": "//almeera.online/var/images/category/383.400/banner%202.jpg",
+        "subcategory_name": "Fruits",
+        "subcategory_img_url": "//almeera.online/var/images/category/383.400/9910905000001.jpg",
+        "products": [
+            {
+                "product_name": "fruits-2/coconut-india",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9910019000001.png",
+                "product_price": "QAR2.50"
+            },
+            {
+                "product_name": "fruits-2/apple-pink-lady-newzland",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9910025000001.jpg",
+                "product_price": "QAR7.50"
+            },
+            {
+                "product_name": "fruits-2/grapes-fruit-south-africa",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9910028000001.png",
+                "product_price": "QAR6"
+            },
+            {
+                "product_name": "fruits-2/watermelon-seedless-imp",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9910487000001.png",
+                "product_price": "QAR24.75"
+            },
+            {
+                "product_name": "fruits-2/peaches-australia",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9910492000001.png",
+                "product_price": "QAR36.75"
+            }
+        ],
+        "images": [
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9910019000001.png",
+                "path": "full/55f872c6559bf68e6afc4a317a93c021cb8c4a2a.jpg",
+                "checksum": "34d9fe3b13973ccb915ad231f8d69de3",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9910025000001.jpg",
+                "path": "full/82467e9574c1d6d759029ceea065435e97caadf0.jpg",
+                "checksum": "10b0606d9385e773182ea53cb0777b45",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9910028000001.png",
+                "path": "full/81d7a9409753cbe513ac74a1416c639ec9b86d6a.jpg",
+                "checksum": "d32c52df6d1e6605554a82d582af6fc9",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9910487000001.png",
+                "path": "full/c432a0d1674981847b3b808906fd51ce65cd1d6e.jpg",
+                "checksum": "c6c070a05d63be0da1a455acaf6d1ea3",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9910492000001.png",
+                "path": "full/e5d85c93c94e97785a4a473e0d84e0f58e55e203.jpg",
+                "checksum": "c930c191008a5dd223854af506c9bee8",
+                "status": "uptodate"
+            }
+        ]
+    },
+    {
+        "category_name": "Fruits & Vegetables",
+        "category_img_url": "//almeera.online/var/images/category/383.400/banner%202.jpg",
+        "subcategory_name": "Vegetables",
+        "subcategory_img_url": "//almeera.online/var/images/category/383.400/9910895000001.png",
+        "products": [
+            {
+                "product_name": "vegetables/capsicum-red-holland",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9910480000001.jpg",
+                "product_price": "QAR25.50"
+            },
+            {
+                "product_name": "vegetables/capsicum-yellow-holland",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9910481000001.png",
+                "product_price": "QAR25.50"
+            },
+            {
+                "product_name": "vegetables/capsicum-orange-holland",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9910482000001.jpg",
+                "product_price": "QAR26.50"
+            },
+            {
+                "product_name": "vegetables/broccoli-imp",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9910503000001.jpg",
+                "product_price": "QAR29.50"
+            },
+            {
+                "product_name": "vegetables/carrot-australia",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9910515000001.jpg",
+                "product_price": "QAR5"
+            }
+        ],
+        "images": [
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9910480000001.jpg",
+                "path": "full/b18aa8a13a38e1bfce7d13c938aed7eadb32a886.jpg",
+                "checksum": "d810d4c52e248940aab0f6014b21c116",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9910481000001.png",
+                "path": "full/40a1a91d59c83ed4baacee3d49cedae613ee6627.jpg",
+                "checksum": "1552f80c6753e29373013e2900b7b72b",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9910482000001.jpg",
+                "path": "full/e81a31e943de4db8882d35f1d86e31eb0d7fcef1.jpg",
+                "checksum": "5c58b55c6fb68cf5bbbc0989c9ee1c5e",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9910503000001.jpg",
+                "path": "full/d5a8c7d15174c63436f7391f0c95c002dfcbf49c.jpg",
+                "checksum": "c882d5dc1f8ca888e9e4bd035b2c9084",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9910515000001.jpg",
+                "path": "full/f771ae6e1bea5bd83d930ea6b1af18dd7b30b060.jpg",
+                "checksum": "560e569e03bf7e7c02f1e2dab41f9d0f",
+                "status": "uptodate"
+            }
+        ]
+    },
+    {
+        "category_name": "Delicatessen",
+        "category_img_url": "//almeera.online/var/images/category/383.400/banner.jpg",
+        "subcategory_name": "Ready Meals",
+        "subcategory_img_url": "//almeera.online/var/images/category/383.400/617241009671.jpg",
+        "products": [
+            {
+                "product_name": "ready-meals/ravioli-ricotta-and-spinach-fresh-pasta-250gm",
+                "product_img_url": "//almeera.online/var/images/product/200.220/4618439370685.jpg",
+                "product_price": "QAR19.75"
+            },
+            {
+                "product_name": "ready-meals/ravioli-four-cheese-fresh-pasta-250gm",
+                "product_img_url": "//almeera.online/var/images/product/200.220/4618439370708.jpg",
+                "product_price": "QAR20.75"
+            },
+            {
+                "product_name": "ready-meals/tortellini-ang-b-f-fr-pst250g",
+                "product_img_url": "//almeera.online/var/images/product/200.220/4618439370920.jpg",
+                "product_price": "QAR21.75"
+            },
+            {
+                "product_name": "ready-meals/ourhome-rice-cake-topokki-500g",
+                "product_img_url": "//almeera.online/var/images/product/200.220/8809257825617.jpg",
+                "product_price": "QAR15.50"
+            },
+            {
+                "product_name": "ready-meals/mezete-hummus-gourmet-zesty-zaatar-215g",
+                "product_img_url": "//almeera.online/var/images/product/200.220/617241009671.jpg",
+                "product_price": "QAR10"
+            }
+        ],
+        "images": [
+            {
+                "url": "https://almeera.online/var/images/product/200.220/4618439370685.jpg",
+                "path": "full/bffd0a9129e93e4a2f0ca3f2ab05f7bd65400aa0.jpg",
+                "checksum": "ca3998a98ea4fcbfb94312289af54454",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/4618439370708.jpg",
+                "path": "full/eb833ca383e31db754c8973c32cab4d36936c3af.jpg",
+                "checksum": "f0e77925187e1873c438f0bb1b735340",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/4618439370920.jpg",
+                "path": "full/6c771b71299d5541c5ddcb4f4032d9ff295a1bdd.jpg",
+                "checksum": "a619c3c251fe5634740e33667de6a58a",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/8809257825617.jpg",
+                "path": "full/05ae3f97aeb545e102a11a689d5a89f83cdfef31.jpg",
+                "checksum": "51b1080ac7fc5f890c8ab7a7f7ed3ac7",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/617241009671.jpg",
+                "path": "full/c1c64554c1d2ceafed72653e7f84ac2a36687685.jpg",
+                "checksum": "79b0eab973f72e37dea180b89030937c",
+                "status": "uptodate"
+            }
+        ]
+    },
+    {
+        "category_name": "Meat & Seafood",
+        "category_img_url": "//almeera.online/var/images/category/383.400/banner%2011.jpg",
+        "subcategory_name": "Chicken",
+        "subcategory_img_url": "//almeera.online/var/images/category/383.400/0710535010657.jpg",
+        "products": [
+            {
+                "product_name": "chicken/mazzraty-fresh-chicken-legs-500g",
+                "product_img_url": "//almeera.online/var/images/product/200.220/0710535010619.jpg",
+                "product_price": "QAR11.75"
+            },
+            {
+                "product_name": "chicken/al-waha-fresh-chicken-900g",
+                "product_img_url": "//almeera.online/var/images/product/200.220/2000000586526.png",
+                "product_price": "QAR18.25"
+            },
+            {
+                "product_name": "chicken/al-waha-ckn-whole-legs-500g",
+                "product_img_url": "//almeera.online/var/images/product/200.220/2000005045332.jpg",
+                "product_price": "QAR10.75"
+            },
+            {
+                "product_name": "chicken/al-waha-ckn-breast-500g-1",
+                "product_img_url": "//almeera.online/var/images/product/200.220/2100000012107.jpg",
+                "product_price": "QAR24.25"
+            },
+            {
+                "product_name": "chicken/al-waha-fresh-chicken-1000g",
+                "product_img_url": "//almeera.online/var/images/product/200.220/2000000606408_1.jpg",
+                "product_price": "QAR20.25"
+            }
+        ],
+        "images": [
+            {
+                "url": "https://almeera.online/var/images/product/200.220/0710535010619.jpg",
+                "path": "full/c70159ca19b489f6938f57d2a120ab7087a0635f.jpg",
+                "checksum": "e6192fc9bbe36e99f46c0028042df41c",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/2000000586526.png",
+                "path": "full/690facb131a1677a3e7db4d6b58ab8c7542f0672.jpg",
+                "checksum": "f108fa155a74d638e11b60b32b7c8b8e",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/2000005045332.jpg",
+                "path": "full/e1449752d337391e4afc6921b15a18bb39af70e8.jpg",
+                "checksum": "722246854a2a30030ee916ccb24a3b96",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/2100000012107.jpg",
+                "path": "full/09547e434eca31a5067f34105ad104c7f12a2729.jpg",
+                "checksum": "e98ab4489faf9955df8ce80c76c5568f",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/2000000606408_1.jpg",
+                "path": "full/8c9d2b48c56762344a765ff57bb9028dbb31a97a.jpg",
+                "checksum": "4cf959c7c29ae75de5922ea49ec6571d",
+                "status": "uptodate"
+            }
+        ]
+    },
+    {
+        "category_name": "Fruits & Vegetables",
+        "category_img_url": "//almeera.online/var/images/category/383.400/banner%202.jpg",
+        "subcategory_name": "Dried Fruits",
+        "subcategory_img_url": "//almeera.online/var/images/category/383.400/9911598000001.png",
+        "products": [
+            {
+                "product_name": "dried-fruits-3/dates-madjool-usa",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9911356000001.jpg",
+                "product_price": "QAR85"
+            },
+            {
+                "product_name": "dried-fruits-3/sweet-tamarind-box-thailand",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9910125000001.jpg",
+                "product_price": "QAR26.50"
+            },
+            {
+                "product_name": "dried-fruits-3/chest-nut-china-per-kg-",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9910014000001.jpg",
+                "product_price": "QAR12.50"
+            },
+            {
+                "product_name": "dried-fruits-3/fresh-green-almond-per-kg-",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9910473000001.jpg",
+                "product_price": "QAR37"
+            },
+            {
+                "product_name": "dried-fruits-3/walnuts-per-kg-",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9911644000001.jpg",
+                "product_price": "QAR59"
+            }
+        ],
+        "images": [
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9911356000001.jpg",
+                "path": "full/0c0f6aebce6cf6c9cd57c38fbc561a8c88bd8f77.jpg",
+                "checksum": "f3ae6f34f727f13684e42b15a92aeb88",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9910125000001.jpg",
+                "path": "full/d8f6ce05144b931d657059e6bd39e9953bb1350f.jpg",
+                "checksum": "94a70730e85095ff6e4bef4586a72952",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9910014000001.jpg",
+                "path": "full/0d6b9067172d455e5aab4aa187f0dcaaff8fafba.jpg",
+                "checksum": "c2f9217c5c7a948606e34ff16e6d641a",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9910473000001.jpg",
+                "path": "full/00a535abb0717fb5874e382cb8be59b7a37fd127.jpg",
+                "checksum": "1b65b2726cbef0de236109a067994e39",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9911644000001.jpg",
+                "path": "full/2f48d300c495e35207e986cbd2a3f18826c9d4a9.jpg",
+                "checksum": "ae8d8db4621648fae36e0a2922d402b7",
+                "status": "uptodate"
+            }
+        ]
+    },
+    {
+        "category_name": "Deals",
+        "category_img_url": "//almeera.online/var/images/category/383.400/For%20email%20campaign.jpg",
+        "subcategory_name": "Colgate Deals",
+        "subcategory_img_url": "//almeera.online/var/images/category/383.400/PHOTO-2023-09-17-08-52-47.jpg",
+        "products": [
+            {
+                "product_name": "colgate-deals/colgate-tp-nat-extracts-charcoal-75ml",
+                "product_img_url": "//almeera.online/var/images/product/200.220/6920354823152.jpg",
+                "product_price": "QAR16.50"
+            },
+            {
+                "product_name": "colgate-deals/colgate-tooth-brush-foam-2x-cushion-clean",
+                "product_img_url": "//almeera.online/var/images/product/200.220/8718951377998.jpg",
+                "product_price": "QAR34.50"
+            },
+            {
+                "product_name": "colgate-deals/kolgyt-blaks-ghsol-alfm-balnaanaaa-500ml",
+                "product_img_url": "//almeera.online/var/images/product/200.220/8850006304846.jpg",
+                "product_price": "QAR23.50"
+            },
+            {
+                "product_name": "colgate-deals/kolgyt-frsha\u0629-asnan-llsghar-6-snoat-mynyonz-fayk\u0629-alnaaom\u0629-1hb\u0629",
+                "product_img_url": "//almeera.online/var/images/product/200.220/8693495051002.jpg",
+                "product_price": "QAR10"
+            },
+            {
+                "product_name": "colgate-deals/colgate-360-optic-white-toothbrush-1-1free",
+                "product_img_url": "//almeera.online/var/images/product/200.220/8714789831275.jpg",
+                "product_price": "QAR18"
+            }
+        ],
+        "images": [
+            {
+                "url": "https://almeera.online/var/images/product/200.220/6920354823152.jpg",
+                "path": "full/f79881335238940735a226450f076beed21754b4.jpg",
+                "checksum": "3b91405b9ee22e15f298510c81b5ff93",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/8718951377998.jpg",
+                "path": "full/715fbace305637e940f16141c28d3f8c251f5a0b.jpg",
+                "checksum": "059a7e4d384ab7376407518cf07bb159",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/8850006304846.jpg",
+                "path": "full/82879496c2fa795123f2316f3e1c862dfce6848b.jpg",
+                "checksum": "0c163c37f37d790d0593f231a03e18a8",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/8693495051002.jpg",
+                "path": "full/5caf3ff6d66b3e2d026d195bf91c684742175863.jpg",
+                "checksum": "dfcc5a0c3a2d5287f7763f64fd84534c",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/8714789831275.jpg",
+                "path": "full/43b7033e70399b265bc0a0a63494fc1b349530bf.jpg",
+                "checksum": "5071093ae08aaa46668fb83e8a3094dd",
+                "status": "uptodate"
+            }
+        ]
+    },
+    {
+        "category_name": "Meat & Seafood",
+        "category_img_url": "//almeera.online/var/images/category/383.400/banner%2011.jpg",
+        "subcategory_name": "Seafood",
+        "subcategory_img_url": "//almeera.online/var/images/category/383.400/9913282000000.jpg",
+        "products": [
+            {
+                "product_name": "seafood-2/ocean-fish-norw-smkd-salmn100g",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9501100282859.jpg",
+                "product_price": "QAR28"
+            },
+            {
+                "product_name": "seafood-2/renna-cuttlefishes-in-oil-200g",
+                "product_img_url": "//almeera.online/var/images/product/200.220/8008177010879.jpg",
+                "product_price": "QAR42"
+            },
+            {
+                "product_name": "seafood-2/coffer-medium",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9913016000000.jpg",
+                "product_price": "QAR17"
+            },
+            {
+                "product_name": "seafood-2/fasker",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9913012000000.jpg",
+                "product_price": "QAR19"
+            },
+            {
+                "product_name": "seafood-2/hamour-fillet",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9913162000000.jpg",
+                "product_price": "QAR149"
+            }
+        ],
+        "images": [
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9501100282859.jpg",
+                "path": "full/643fdf4c04c3a7838fb77f9b0bf492262ce5a978.jpg",
+                "checksum": "a9380eb320f4194018c3cc92fb8a3d4f",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/8008177010879.jpg",
+                "path": "full/ff7045452ed5fedfaeb29b380bfd9c292ad3c6b8.jpg",
+                "checksum": "f722bbe7f62a783044b6f99046aae51b",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9913016000000.jpg",
+                "path": "full/d08ba24595b34e95a44183fa4fffa8d5cc113ff9.jpg",
+                "checksum": "22fad85693d383da0e6f31aa7821d848",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9913012000000.jpg",
+                "path": "full/f42fbc7c6f4774b5d0eebdc319c91ce24ad6ef48.jpg",
+                "checksum": "613d43477841c9fe23e6dd2f59a3f238",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9913162000000.jpg",
+                "path": "full/1c8d396ac8015ce5f0396163a5dea4df632bcc00.jpg",
+                "checksum": "19660c2041a433df61d580522cebdb02",
+                "status": "uptodate"
+            }
+        ]
+    },
+    {
+        "category_name": "Delicatessen",
+        "category_img_url": "//almeera.online/var/images/category/383.400/banner.jpg",
+        "subcategory_name": "Cold Cuts",
+        "subcategory_img_url": "//almeera.online/var/images/category/383.400/6297000731629.png",
+        "products": [
+            {
+                "product_name": "cold-cuts-1/volys-cknbrst-fried-wherbs150g",
+                "product_img_url": "//almeera.online/var/images/product/200.220/5411431115952.png",
+                "product_price": "QAR14.75"
+            },
+            {
+                "product_name": "cold-cuts-1/gourmet-smk-ckn-slcices-250g",
+                "product_img_url": "//almeera.online/var/images/product/200.220/6297000731544_1.jpg",
+                "product_price": "QAR15.50"
+            },
+            {
+                "product_name": "cold-cuts-1/gourmet-smk-beef-slices-250g",
+                "product_img_url": "//almeera.online/var/images/product/200.220/6297000731551_1.jpg",
+                "product_price": "QAR15"
+            },
+            {
+                "product_name": "cold-cuts-1/namet-pastrami-skimmed-100g",
+                "product_img_url": "//almeera.online/var/images/product/200.220/8697471728490.jpg",
+                "product_price": "QAR22"
+            },
+            {
+                "product_name": "cold-cuts-1/namet-smoked-turkey-200g",
+                "product_img_url": "//almeera.online/var/images/product/200.220/8692415400562_1.jpg",
+                "product_price": "QAR17.75"
+            }
+        ],
+        "images": [
+            {
+                "url": "https://almeera.online/var/images/product/200.220/5411431115952.png",
+                "path": "full/13569fad2fae94c7a5b5fb43ef44509cac768754.jpg",
+                "checksum": "85cfaa609d9fe983a8b458d90a93e124",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/6297000731544_1.jpg",
+                "path": "full/f1de6600382afba09fbc86d6c4ef97f28b53ddea.jpg",
+                "checksum": "301b802f3f2f109673528a08601efd01",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/6297000731551_1.jpg",
+                "path": "full/b0e1efce124f12f468fffed250a2ebaa6978d92c.jpg",
+                "checksum": "f987a71943efa4c6bfb3f070aad92860",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/8697471728490.jpg",
+                "path": "full/401973b7d96c6f7dbbe9d2af1d10a10de29600de.jpg",
+                "checksum": "d501c04ded58581ccf15593313a5bf0f",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/8692415400562_1.jpg",
+                "path": "full/cace0c5c339dd044deac3f4a3e071fabab979362.jpg",
+                "checksum": "82e146e1b190005681503ec35b17e42c",
+                "status": "uptodate"
+            }
+        ]
+    },
+    {
+        "category_name": "Delicatessen",
+        "category_img_url": "//almeera.online/var/images/category/383.400/banner.jpg",
+        "subcategory_name": "Jams & Sweets",
+        "subcategory_img_url": "//almeera.online/var/images/category/383.400/9913727000000_1.jpg",
+        "products": [
+            {
+                "product_name": "jams-and-sweets/halawa-chocolate-turkey",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9913681000000.jpg",
+                "product_price": "QAR30.75"
+            },
+            {
+                "product_name": "jams-and-sweets/halawa-plain-turkey",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9913687000000.jpg",
+                "product_price": "QAR30.75"
+            },
+            {
+                "product_name": "jams-and-sweets/fig-jam-turkey",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9913727000000.jpg",
+                "product_price": "QAR20"
+            },
+            {
+                "product_name": "jams-and-sweets/strawberry-jam-turkey",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9913667000000.jpg",
+                "product_price": "QAR20"
+            },
+            {
+                "product_name": "jams-and-sweets/halawa-plain-lebanon-per-kg-",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9913558000000.jpg",
+                "product_price": "QAR23.75"
+            }
+        ],
+        "images": [
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9913681000000.jpg",
+                "path": "full/f3d9cfaf8f261563078f5a77ddc1837d35b41b6b.jpg",
+                "checksum": "0c4d406525b3a3d8650832a010db1582",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9913687000000.jpg",
+                "path": "full/9572dfe8eb867076b6e53b83aae54379428e0642.jpg",
+                "checksum": "3fe8b1ae060c2e224f9023287241ef08",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9913727000000.jpg",
+                "path": "full/fc59524ec08b4bda49de73df2f3ccb1cc94a879d.jpg",
+                "checksum": "3687f5c73af0fc5023b3260e17116d89",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9913667000000.jpg",
+                "path": "full/cd606f1dea4dee861cc030d080ea98f4e3a7447e.jpg",
+                "checksum": "1ba90ac30d6fe0a6764e01b81eb0c595",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9913558000000.jpg",
+                "path": "full/9cc1e4217f17e034f36302cd568c0cfb94bb41bd.jpg",
+                "checksum": "c5ce1eb541a8fc545a583d528fbaeb3b",
+                "status": "uptodate"
+            }
+        ]
+    },
+    {
+        "category_name": "Meat & Seafood",
+        "category_img_url": "//almeera.online/var/images/category/383.400/banner%2011.jpg",
+        "subcategory_name": "Lamb",
+        "subcategory_img_url": "//almeera.online/var/images/category/383.400/9912955000000.jpg",
+        "products": [
+            {
+                "product_name": "lamb/qusaimi-mutton-mince-500g",
+                "product_img_url": "//almeera.online/var/images/product/200.220/5100000011662.jpg",
+                "product_price": "QAR16"
+            },
+            {
+                "product_name": "lamb/lamb-leg-boneless-australia",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9912259000000.jpg",
+                "product_price": "QAR55.75"
+            },
+            {
+                "product_name": "lamb/lamb-leg-australia",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9912609000000.jpg",
+                "product_price": "QAR38.75"
+            },
+            {
+                "product_name": "lamb/lamb-leg-arabic",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9912955000000.jpg",
+                "product_price": "QAR67.75"
+            },
+            {
+                "product_name": "lamb/lamb-leg-syria",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9912302000000.jpg",
+                "product_price": "QAR68.75"
+            }
+        ],
+        "images": [
+            {
+                "url": "https://almeera.online/var/images/product/200.220/5100000011662.jpg",
+                "path": "full/0cedf4bb7efb341c002faa1551223f94f882b736.jpg",
+                "checksum": "eaf15ac536027a89e0dc341ca15f79cd",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9912259000000.jpg",
+                "path": "full/ccdaf1f47f2e40b6f167171ed1b7d79afb622539.jpg",
+                "checksum": "7551ff87024dc7a32312f2f90ecfede0",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9912609000000.jpg",
+                "path": "full/d26cf6d84aea1586d858a02ef4cc477596e85e0d.jpg",
+                "checksum": "635fd87a4723334a60af9675fd1c2612",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9912955000000.jpg",
+                "path": "full/83e545355298fe0e4aba84f4fb91576206e8bca1.jpg",
+                "checksum": "635fd87a4723334a60af9675fd1c2612",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9912302000000.jpg",
+                "path": "full/7b79e5a3af2a6721dc2464a300dcbd3119fad11f.jpg",
+                "checksum": "e145faefe53e327928ea15abb3f525e0",
+                "status": "uptodate"
+            }
+        ]
+    },
+    {
+        "category_name": "Bakery & Pastry",
+        "category_img_url": "//almeera.online/var/images/category/383.400/bakery.jpg",
+        "subcategory_name": "Fresh",
+        "subcategory_img_url": "//almeera.online/var/images/category/383.400/9918872000000.jpg",
+        "products": [
+            {
+                "product_name": "fresh/bread-naan-1x3",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9918583000000.png",
+                "product_price": "QAR5.75"
+            },
+            {
+                "product_name": "fresh/bread-turkish-1x2",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9918588000000.jpg",
+                "product_price": "QAR5.25"
+            },
+            {
+                "product_name": "fresh/arabic-sag-bread",
+                "product_img_url": "//almeera.online/var/images/product/200.220/6568151924100.png",
+                "product_price": "QAR6.75"
+            },
+            {
+                "product_name": "fresh/batter-meshaltet",
+                "product_img_url": "//almeera.online/var/images/product/200.220/6655373532234.png",
+                "product_price": "QAR6.75"
+            },
+            {
+                "product_name": "fresh/fine-butter-croissant-70g-x8",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9918802000000.jpg",
+                "product_price": "QAR22"
+            }
+        ],
+        "images": [
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9918583000000.png",
+                "path": "full/331239e2143cca3b9cd6ce15ca854e14db6dc844.jpg",
+                "checksum": "1352e9d39abfe77e230e5941b0369e91",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9918588000000.jpg",
+                "path": "full/b2fd721eb340cf724d049717fee5b7b27aa8dafe.jpg",
+                "checksum": "557f0dffbec91ce752e0c3bc8763e33e",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/6568151924100.png",
+                "path": "full/876b6b42d27877ffe35ec035c87b11034f76a5f8.jpg",
+                "checksum": "009651241a5e9f4856b7db7ead72e55d",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/6655373532234.png",
+                "path": "full/8d442df9b0f5ebfd670050da00c1632b97589d2a.jpg",
+                "checksum": "e7071a61ad2f78396c4a2931844af0ec",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9918802000000.jpg",
+                "path": "full/3b68242dcd3557fc1c02f7b90dab1ea9aa86ed79.jpg",
+                "checksum": "b15222dfd8b9a86f95aba982667f2edc",
+                "status": "uptodate"
+            }
+        ]
+    },
+    {
+        "category_name": "Bakery & Pastry",
+        "category_img_url": "//almeera.online/var/images/category/383.400/bakery.jpg",
+        "subcategory_name": "Arabic Bread & Tortilla",
+        "subcategory_img_url": "//almeera.online/var/images/category/383.400/6253808660479.png",
+        "products": [
+            {
+                "product_name": "arabic-bread-and-tortilla/al-arz-arabic-bread-small-10s-1",
+                "product_img_url": "//almeera.online/var/images/product/200.220/8044190340005.jpg",
+                "product_price": "QAR1"
+            },
+            {
+                "product_name": "arabic-bread-and-tortilla/al-arz-arabic-brown-bread-4s",
+                "product_img_url": "//almeera.online/var/images/product/200.220/8044190340029.jpg",
+                "product_price": "QAR1"
+            },
+            {
+                "product_name": "arabic-bread-and-tortilla/al-zawaq-arabic-bread-310gm",
+                "product_img_url": "//almeera.online/var/images/product/200.220/939000999948.jpg",
+                "product_price": "QAR1"
+            },
+            {
+                "product_name": "arabic-bread-and-tortilla/wooden-bakery-arabic-pita-bran-small-4loaves-220g",
+                "product_img_url": "//almeera.online/var/images/product/200.220/5285000172536.jpg",
+                "product_price": "QAR2"
+            },
+            {
+                "product_name": "arabic-bread-and-tortilla/wooden-bakery-arabic-pita-white-medium-10-loaves-625g",
+                "product_img_url": "//almeera.online/var/images/product/200.220/5285000170679.jpg",
+                "product_price": "QAR1"
+            }
+        ],
+        "images": [
+            {
+                "url": "https://almeera.online/var/images/product/200.220/8044190340005.jpg",
+                "path": "full/0d893c2e2d3a78a721eced8e4c8c0813c53f2d7d.jpg",
+                "checksum": "91e64b12e27c0f116ef7b2e613677d43",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/8044190340029.jpg",
+                "path": "full/da71c5fe57423abdb7fb97c6dd63415c5f2bda4f.jpg",
+                "checksum": "dd1c7dca1915a80b7b5bb9d08cb8c81a",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/939000999948.jpg",
+                "path": "full/ca275deae9f909383d503b8e76be84fd35fe154f.jpg",
+                "checksum": "5e34472d1ad037824f247064a7c4cf5b",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/5285000172536.jpg",
+                "path": "full/bafffab72ed394f7c45e2a5c5326f9ca5c85e224.jpg",
+                "checksum": "5c7ee1c0296e712ba58f55ed9ecbdb16",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/5285000170679.jpg",
+                "path": "full/ad5ee475cbfff6fbbe774e99aa0de1d5651e221e.jpg",
+                "checksum": "8a2992d70616f3ca15d3da605949c9c9",
+                "status": "uptodate"
+            }
+        ]
+    },
+    {
+        "category_name": "Delicatessen",
+        "category_img_url": "//almeera.online/var/images/category/383.400/banner.jpg",
+        "subcategory_name": "Cheese",
+        "subcategory_img_url": "//almeera.online/var/images/category/383.400/9913841000000.jpg",
+        "products": [
+            {
+                "product_name": "cheese/cheese-kashkaval-cow-milk-hungary",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9913507000000.png",
+                "product_price": "QAR59.75"
+            },
+            {
+                "product_name": "cheese/cheese-kashkaval-sheep-milk-hungary",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9913508000000.jpg",
+                "product_price": "QAR83"
+            },
+            {
+                "product_name": "cheese/awafi-mozzarella-cheese-hungary",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9913522000000.jpg",
+                "product_price": "QAR30.75"
+            },
+            {
+                "product_name": "cheese/cheese-feta-cheese-denmark",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9913553000000.jpg",
+                "product_price": "QAR38.75"
+            },
+            {
+                "product_name": "cheese/al-wadi-labneh-lebanon",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9913599000000_2.jpg",
+                "product_price": "QAR34.75"
+            }
+        ],
+        "images": [
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9913507000000.png",
+                "path": "full/dceba9a229245989e015d61994be6d19b9bea06b.jpg",
+                "checksum": "fed0ce199aa874dd2519693a82c87922",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9913508000000.jpg",
+                "path": "full/96a1a2f2ccbf5e333a17d48ecdc645dd5a60184f.jpg",
+                "checksum": "189c59e0d9fc48cba1d0f4db0bb6e689",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9913522000000.jpg",
+                "path": "full/7e86eafa93207ef34d7a4f7c2463de198e48edef.jpg",
+                "checksum": "c1d8864ba01b3423be129e194a71371d",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9913553000000.jpg",
+                "path": "full/daaed088e87d7b66118526380ebaa34ec7f0123d.jpg",
+                "checksum": "a31c122b4c50a38bf06dbaf58b314cb7",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9913599000000_2.jpg",
+                "path": "full/7831ceb809c44552c24c7dcf27095a29d0d27410.jpg",
+                "checksum": "2640ab32510464a9b00df2046ed74236",
+                "status": "uptodate"
+            }
+        ]
+    },
+    {
+        "category_name": "Meat & Seafood",
+        "category_img_url": "//almeera.online/var/images/category/383.400/banner%2011.jpg",
+        "subcategory_name": "Beef & Veal",
+        "subcategory_img_url": "//almeera.online/var/images/category/383.400/9912951000000.jpg",
+        "products": [
+            {
+                "product_name": "beef-and-veal/qusaimi-minced-beef-500gm",
+                "product_img_url": "//almeera.online/var/images/product/200.220/5100000011663.jpg",
+                "product_price": "QAR14.50"
+            },
+            {
+                "product_name": "beef-and-veal/beef-cubes-low-fat-australia",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9912951000000.jpg",
+                "product_price": "QAR46.75"
+            },
+            {
+                "product_name": "beef-and-veal/beef-cube-low-fat-south-africa",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9912391000000.jpg",
+                "product_price": "QAR41.75"
+            },
+            {
+                "product_name": "beef-and-veal/beef-mince-australia",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9912532000000.jpg",
+                "product_price": "QAR39.75"
+            },
+            {
+                "product_name": "beef-and-veal/beef-mince-brazil",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9912265000000_1.jpg",
+                "product_price": "QAR24.75"
+            }
+        ],
+        "images": [
+            {
+                "url": "https://almeera.online/var/images/product/200.220/5100000011663.jpg",
+                "path": "full/37fb7606490184e027b4a32a264dafef722d5fc8.jpg",
+                "checksum": "2fe5a75485a20066e27f2257e0808364",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9912951000000.jpg",
+                "path": "full/f2066f7d6e16868cdcc299d8d44aec147ea20fa9.jpg",
+                "checksum": "4d65718e9a41c88807e734dfc8286be3",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9912391000000.jpg",
+                "path": "full/d9424d77cb12f5d0acfffc6f6cdd9298e4b11ddf.jpg",
+                "checksum": "4d65718e9a41c88807e734dfc8286be3",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9912532000000.jpg",
+                "path": "full/080163ef3b05d92b266a925451aab890a12405f5.jpg",
+                "checksum": "e34a81dee2432508f129a831548ca225",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9912265000000_1.jpg",
+                "path": "full/9145bfe11f25688ead0eb47a355240bebb803a2c.jpg",
+                "checksum": "206c718a166ceba74ed188f84a0f923b",
+                "status": "uptodate"
+            }
+        ]
+    },
+    {
+        "category_name": "Bakery & Pastry",
+        "category_img_url": "//almeera.online/var/images/category/383.400/bakery.jpg",
+        "subcategory_name": "Bread",
+        "subcategory_img_url": "//almeera.online/var/images/category/383.400/6253808660332.jpg",
+        "products": [
+            {
+                "product_name": "bread/arirang-milk-bread-750gm",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9567891000010.jpg",
+                "product_price": "QAR6.50"
+            },
+            {
+                "product_name": "bread/korean-toast-bread-large-675g-1",
+                "product_img_url": "//almeera.online/var/images/product/200.220/4990000010368.jpg",
+                "product_price": "QAR7"
+            },
+            {
+                "product_name": "bread/korean-butter-bread-250g-1",
+                "product_img_url": "//almeera.online/var/images/product/200.220/6291105900133.jpg",
+                "product_price": "QAR3.75"
+            },
+            {
+                "product_name": "bread/korean-toast-bread-medium-500g-1",
+                "product_img_url": "//almeera.online/var/images/product/200.220/4990000010375_1.jpg",
+                "product_price": "QAR6"
+            },
+            {
+                "product_name": "bread/qbake-slice-bread-milk-med500g",
+                "product_img_url": "//almeera.online/var/images/product/200.220/6253808660264.jpg",
+                "product_price": "QAR5.75"
+            }
+        ],
+        "images": [
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9567891000010.jpg",
+                "path": "full/c7a333d310ddfb9dbf59916233d47e577258dbe2.jpg",
+                "checksum": "d54f8b4b6410866e04db6e96d4127d29",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/4990000010368.jpg",
+                "path": "full/5db3f7fa6d4391aac63cde06e58e7155bc9084ae.jpg",
+                "checksum": "c39ca7a24366bcc10ad2337873b37eb1",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/6291105900133.jpg",
+                "path": "full/0a9049662cb726f07ec32f755896ca5fb9967058.jpg",
+                "checksum": "b18818dc6aa44a1acf392a41c62af75d",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/4990000010375_1.jpg",
+                "path": "full/e2df2fcc20c44edeb1adc37b2b868bc736094e8f.jpg",
+                "checksum": "a8a502888b04ff5b073cea4cf30876bd",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/6253808660264.jpg",
+                "path": "full/a8c4b715738bf4e4692bb28e0cfc1d03960b487a.jpg",
+                "checksum": "4c625660a532996b4f2e4bb0d7738cec",
+                "status": "uptodate"
+            }
+        ]
+    },
+    {
+        "category_name": "Delicatessen",
+        "category_img_url": "//almeera.online/var/images/category/383.400/banner.jpg",
+        "subcategory_name": "Pickels & Spices",
+        "subcategory_img_url": "//almeera.online/var/images/category/383.400/9915107000000.jpg",
+        "products": [
+            {
+                "product_name": "pickels-and-spices/pickled-cucumber-cornichons-lebanon",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9915105000000.jpg",
+                "product_price": "QAR30"
+            },
+            {
+                "product_name": "pickels-and-spices/mix-pickled-lebanon",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9915107000000.jpg",
+                "product_price": "QAR11.75"
+            },
+            {
+                "product_name": "pickels-and-spices/makdousse-syrian",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9915171000000.jpg",
+                "product_price": "QAR29.75"
+            },
+            {
+                "product_name": "pickels-and-spices/lupine-seeds-spain",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9915422000000.jpg",
+                "product_price": "QAR19.75"
+            },
+            {
+                "product_name": "pickels-and-spices/makdousse-lebanon-per-kg-",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9915564000000.jpg",
+                "product_price": "QAR34.75"
+            }
+        ],
+        "images": [
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9915105000000.jpg",
+                "path": "full/8060f6aec8350a5a6e1302be6e5746024f5e57fe.jpg",
+                "checksum": "bad5712cf503b19537e5e83902e3b545",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9915107000000.jpg",
+                "path": "full/4651f40f921c9d605fcca007d0221fd4bdb63504.jpg",
+                "checksum": "79b7f4b5ca3100607beddf80115e4b84",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9915171000000.jpg",
+                "path": "full/3c0a3aa39f33cc0a65633aab5e7f473c6ee525a4.jpg",
+                "checksum": "0757cb3f48eff634a9df86b1f153f0d6",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9915422000000.jpg",
+                "path": "full/b1f6741bdf1e9d3c3ea8d7f67648529962158462.jpg",
+                "checksum": "e5671d6c11467dae0a645580c3d75bc5",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9915564000000.jpg",
+                "path": "full/192ffde60acda76fdb609280167813722c1f0ccb.jpg",
+                "checksum": "7fad4a2b6a4c8a997a7c5a3cb6c91924",
+                "status": "uptodate"
+            }
+        ]
+    },
+    {
+        "category_name": "Deals",
+        "category_img_url": "//almeera.online/var/images/category/383.400/For%20email%20campaign.jpg",
+        "subcategory_name": "Weekly Deals",
+        "subcategory_img_url": "//almeera.online/var/images/category/383.400/Deals%20cover.png",
+        "products": [
+            {
+                "product_name": "deals/harpic-toilet-cleaning-gel-liquid-750ml-x-3-assorted--4",
+                "product_img_url": "//almeera.online/var/images/product/200.220/3854018151059_1.jpg",
+                "product_price": "QAR25"
+            },
+            {
+                "product_name": "deals/heinz-creamy-classic-mayonnaise-940g",
+                "product_img_url": "//almeera.online/var/images/product/200.220/6281055056769.jpg",
+                "product_price": "QAR14.75"
+            },
+            {
+                "product_name": "deals/sadia-chicken-breast-cubes-750g",
+                "product_img_url": "//almeera.online/var/images/product/200.220/7891515554828.jpg",
+                "product_price": "QAR16.50"
+            },
+            {
+                "product_name": "deals/americana-happy-chicken-nuggets-400g-x-2-assorted-",
+                "product_img_url": "//almeera.online/var/images/product/200.220/6281050214683.jpg",
+                "product_price": "QAR18.50"
+            },
+            {
+                "product_name": "deals/coca-cola-pet-1-25l-x-3",
+                "product_img_url": "//almeera.online/var/images/product/200.220/5000112592863.jpg",
+                "product_price": "QAR12"
+            }
+        ],
+        "images": [
+            {
+                "url": "https://almeera.online/var/images/product/200.220/3854018151059_1.jpg",
+                "path": "full/358c971732c8f6886a9fb114e083144e711f8113.jpg",
+                "checksum": "f71ceda9ba33893f53615fa5842e78dd",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/6281055056769.jpg",
+                "path": "full/62f361a0581a2a29eabeb07f9c8cd90cfe58c0fa.jpg",
+                "checksum": "7635002ed7157195d1851a4c2bad7eae",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/7891515554828.jpg",
+                "path": "full/aacf1d366f5f121ef9809df0454dc0492a8bcf9e.jpg",
+                "checksum": "3be9f837222c91024bef00df8d8b5534",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/6281050214683.jpg",
+                "path": "full/f4303931be0977fa4829a408fe4d70b33b1f4eba.jpg",
+                "checksum": "895d08bc57f6c9947442c5a1a92dcc16",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/5000112592863.jpg",
+                "path": "full/378d27dfcba30534e0caf79c51e4657b88d2d89e.jpg",
+                "checksum": "8bf1fda76308c3ddd0466175cc4b941e",
+                "status": "uptodate"
+            }
+        ]
+    },
+    {
+        "category_name": "Bakery & Pastry",
+        "category_img_url": "//almeera.online/var/images/category/383.400/bakery.jpg",
+        "subcategory_name": "Pastries and Cakes",
+        "subcategory_img_url": "//almeera.online/var/images/category/383.400/9501100379115.png",
+        "products": [
+            {
+                "product_name": "pastries-and-cakes/al-noor-cup-cake-12-pcs",
+                "product_img_url": "//almeera.online/var/images/product/200.220/5100000005351.png",
+                "product_price": "QAR6.25"
+            },
+            {
+                "product_name": "pastries-and-cakes/al-noor-butter-cake-small-12pc",
+                "product_img_url": "//almeera.online/var/images/product/200.220/5100000005352.jpg",
+                "product_price": "QAR6.75"
+            },
+            {
+                "product_name": "pastries-and-cakes/al-noor-toasted-cake-12-pcs",
+                "product_img_url": "//almeera.online/var/images/product/200.220/5100000005353.png",
+                "product_price": "QAR6.25"
+            },
+            {
+                "product_name": "pastries-and-cakes/qbake-cream-bun-1pc",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9501100379610.png",
+                "product_price": "QAR1"
+            },
+            {
+                "product_name": "pastries-and-cakes/qbake-fruit-roll",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9501100379450.png",
+                "product_price": "QAR1.75"
+            }
+        ],
+        "images": [
+            {
+                "url": "https://almeera.online/var/images/product/200.220/5100000005351.png",
+                "path": "full/23122c45240d839076f5b7b7c859df734c32d175.jpg",
+                "checksum": "45e6f57743fdecdb841dc831d1c17989",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/5100000005352.jpg",
+                "path": "full/a0b3c87fd83a11ef83c3897e93aab82345a2f94e.jpg",
+                "checksum": "a002247ee2584450dd1d55b50c0115aa",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/5100000005353.png",
+                "path": "full/c3ba62d1c209fdce8f20920e9a7fbcda31f4e47a.jpg",
+                "checksum": "dfe4302b91d6d4a954fcf30c19f1d656",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9501100379610.png",
+                "path": "full/1654c3aa662fa7ceea597c5104f3713f6844f5e8.jpg",
+                "checksum": "c7863ae1060fa4197e65776f5d2b64fa",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9501100379450.png",
+                "path": "full/af9629bd18c0b89aa7caac457fd910135fe840a7.jpg",
+                "checksum": "156e283c34942ec87850d1073e6751a6",
+                "status": "uptodate"
+            }
+        ]
+    },
+    {
+        "category_name": "Bakery & Pastry",
+        "category_img_url": "//almeera.online/var/images/category/383.400/bakery.jpg",
+        "subcategory_name": "Rusk & Toast",
+        "subcategory_img_url": "//almeera.online/var/images/category/383.400/6291105900225.png",
+        "products": [
+            {
+                "product_name": "rusk-and-toast/britania-wheat-rusk-335gm",
+                "product_img_url": "//almeera.online/var/images/product/200.220/8901063151055.png",
+                "product_price": "QAR6"
+            },
+            {
+                "product_name": "rusk-and-toast/britania-milk-rusk-310gm",
+                "product_img_url": "//almeera.online/var/images/product/200.220/8901063136762.png",
+                "product_price": "QAR6"
+            },
+            {
+                "product_name": "rusk-and-toast/parliament-suji-rusk-300g",
+                "product_img_url": "//almeera.online/var/images/product/200.220/8908004076392.png",
+                "product_price": "QAR5.25"
+            },
+            {
+                "product_name": "rusk-and-toast/parliament-suji-rusk-600g",
+                "product_img_url": "//almeera.online/var/images/product/200.220/8908004076576.png",
+                "product_price": "QAR10"
+            },
+            {
+                "product_name": "rusk-and-toast/qbake-cake-rusk-18pcx26g",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9501100379825.png",
+                "product_price": "QAR16"
+            }
+        ],
+        "images": [
+            {
+                "url": "https://almeera.online/var/images/product/200.220/8901063151055.png",
+                "path": "full/f09eeebc0c11371bcd981242d06b930af78d4472.jpg",
+                "checksum": "20c48d2272d51eebe41f7afad0a5c2a9",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/8901063136762.png",
+                "path": "full/290ba7ab8b4b16a5316a9cf0b7a8af5c8f730dfe.jpg",
+                "checksum": "70b32ed65ff27881684dc6d9fd8a7c87",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/8908004076392.png",
+                "path": "full/ec261a3a62427535741c39b9093ea5fed3d7a811.jpg",
+                "checksum": "f75f2b61d7701c25f96186a0f5a2bc9a",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/8908004076576.png",
+                "path": "full/22272af6e81e7705d6968847499ef91a4afa05f1.jpg",
+                "checksum": "dd3d738f053fa598a8562346052c4507",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9501100379825.png",
+                "path": "full/fae44e9a420f54a83bddf5141c47b5a653e44ebe.jpg",
+                "checksum": "254b6e319dff23047eee52f504e39fa3",
+                "status": "uptodate"
+            }
+        ]
+    },
+    {
+        "category_name": "Bakery & Pastry",
+        "category_img_url": "//almeera.online/var/images/category/383.400/bakery.jpg",
+        "subcategory_name": "Buns & Rolls",
+        "subcategory_img_url": "//almeera.online/var/images/category/383.400/6253808660561.jpg",
+        "products": [
+            {
+                "product_name": "buns-and-rolls/napoli-milk-roll-270g",
+                "product_img_url": "//almeera.online/var/images/product/200.220/5100000000127.jpg",
+                "product_price": "QAR3.75"
+            },
+            {
+                "product_name": "buns-and-rolls/napoli-sandwich-roll-410g",
+                "product_img_url": "//almeera.online/var/images/product/200.220/5100000000142.jpg",
+                "product_price": "QAR5.25"
+            },
+            {
+                "product_name": "buns-and-rolls/london-bakery-butter-roll",
+                "product_img_url": "//almeera.online/var/images/product/200.220/5100000000260.jpg",
+                "product_price": "QAR2.75"
+            },
+            {
+                "product_name": "buns-and-rolls/london-hotdog-bread-10pc",
+                "product_img_url": "//almeera.online/var/images/product/200.220/5100000000264.jpg",
+                "product_price": "QAR5.75"
+            },
+            {
+                "product_name": "buns-and-rolls/london-humberger-buns-6-pcs",
+                "product_img_url": "//almeera.online/var/images/product/200.220/5100000000275.jpg",
+                "product_price": "QAR3.75"
+            }
+        ],
+        "images": [
+            {
+                "url": "https://almeera.online/var/images/product/200.220/5100000000127.jpg",
+                "path": "full/6575357d614af001cc0d8854bb35d3dbaf895a6f.jpg",
+                "checksum": "c0246ce1218e78b33e871bd6e4414c85",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/5100000000142.jpg",
+                "path": "full/45ad35d1d76c39f347dbe3e84a5c4db31df8dfa4.jpg",
+                "checksum": "feeed933486ae4abf67cdd3d4b53beaf",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/5100000000260.jpg",
+                "path": "full/c83c67c6a64cbf17af5385db0e2123605a1f9f32.jpg",
+                "checksum": "8a732ed0161ae6513c1d2f25c4522e86",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/5100000000264.jpg",
+                "path": "full/e526f8f30109b02ad7a246385271bc1073a2af00.jpg",
+                "checksum": "27586efa065c8fd6cf7aa6379906f093",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/5100000000275.jpg",
+                "path": "full/155a4cf5d92810772b6f89f9218bf7c70f2fae72.jpg",
+                "checksum": "9ff746c4c29172dbfbbaac04cfd62d97",
+                "status": "uptodate"
+            }
+        ]
+    },
+    {
+        "category_name": "Fruits & Vegetables",
+        "category_img_url": "//almeera.online/var/images/category/383.400/banner%202.jpg",
+        "subcategory_name": "Vegetables",
+        "subcategory_img_url": "//almeera.online/var/images/category/383.400/9910895000001.png",
+        "products": [
+            {
+                "product_name": "vegetables/mint-jordan-pcs",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9919048000001.png",
+                "product_price": "QAR3.50"
+            },
+            {
+                "product_name": "vegetables/parsely-bunch-jordan-pcs",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9911873000001.png",
+                "product_price": "QAR4.50"
+            },
+            {
+                "product_name": "vegetables/pumpkin-orange-iran",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9911456000001.jpg",
+                "product_price": "QAR3"
+            },
+            {
+                "product_name": "vegetables/radish-white-china",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9910904000001.png",
+                "product_price": "QAR3.50"
+            },
+            {
+                "product_name": "vegetables/tomatoes-beef-holland",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9910822000001.jpg",
+                "product_price": "QAR32.75"
+            }
+        ],
+        "images": [
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9919048000001.png",
+                "path": "full/9806a6016c74164535d17b3b4647c0d4ad3a8330.jpg",
+                "checksum": "86d3da204a9eafc229d9770a6018828b",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9911873000001.png",
+                "path": "full/0e100a81c560b407053c2cf59128753903f961f8.jpg",
+                "checksum": "726541d457d6bcd69027d3d99d57e604",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9911456000001.jpg",
+                "path": "full/43d4ee5a0c7154a9d39d1d39add42368ffbcedbb.jpg",
+                "checksum": "e8f3cd2b0be4c3d0256c8ff72d332ce7",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9910904000001.png",
+                "path": "full/ca4f5e27478a6c2278ab85a4e640ba962d49e9cc.jpg",
+                "checksum": "f09f20a141d99d08af389d50a6bf72ae",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9910822000001.jpg",
+                "path": "full/c9f8c8d7fbf95e462f710940c2e2a922aa8f98a4.jpg",
+                "checksum": "e79637bdf72416a819a04e498d54282a",
+                "status": "uptodate"
+            }
+        ]
+    },
+    {
+        "category_name": "Bakery & Pastry",
+        "category_img_url": "//almeera.online/var/images/category/383.400/bakery.jpg",
+        "subcategory_name": "Sweets",
+        "subcategory_img_url": "//almeera.online/var/images/category/383.400/4483742899556.jpg",
+        "products": [
+            {
+                "product_name": "sweets/althoak-bskoyt-alaayd-500gh",
+                "product_img_url": "//almeera.online/var/images/product/200.220/4483742899556.jpg",
+                "product_price": "QAR17.50"
+            }
+        ],
+        "images": [
+            {
+                "url": "https://almeera.online/var/images/product/200.220/4483742899556.jpg",
+                "path": "full/a057d0484d6c7b5636c3c541d46d43669eca4eb6.jpg",
+                "checksum": "9b54d9535636cc1f45dbafef7d2dc1fd",
+                "status": "uptodate"
+            }
+        ]
+    },
+    {
+        "category_name": "Delicatessen",
+        "category_img_url": "//almeera.online/var/images/category/383.400/banner.jpg",
+        "subcategory_name": "Olives & Oil",
+        "subcategory_img_url": "//almeera.online/var/images/category/383.400/9915573000000.jpg",
+        "products": [
+            {
+                "product_name": "olives-and-oil/balouglu-olives-jarjeer-turkey",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9913541000000.jpg",
+                "product_price": "QAR30"
+            },
+            {
+                "product_name": "olives-and-oil/green-olives-whole-spain",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9915125000000.jpg",
+                "product_price": "QAR18.75"
+            },
+            {
+                "product_name": "olives-and-oil/black-olives-pitted-spain",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9915126000000.jpg",
+                "product_price": "QAR24.75"
+            },
+            {
+                "product_name": "olives-and-oil/black-olives-jarjeer-jordan",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9915239000000.jpg",
+                "product_price": "QAR27.50"
+            },
+            {
+                "product_name": "olives-and-oil/green-olives-jordan",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9915307000000.png",
+                "product_price": "QAR20.50"
+            }
+        ],
+        "images": [
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9913541000000.jpg",
+                "path": "full/271539cc883a7f4a0c2784381968db0e67b917ec.jpg",
+                "checksum": "f9f72fee0cd968edc9ffb56179da79cd",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9915125000000.jpg",
+                "path": "full/3de28bd9dcec5b4c6f71db7c7fe31d7eab219329.jpg",
+                "checksum": "3e810595850077ee03dcd9258d1e8b5c",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9915126000000.jpg",
+                "path": "full/b04391f15ac95780ddbc24a296d0ec5e68f6491a.jpg",
+                "checksum": "dfcdc4dc75e7a3377b1e8a05118c6b2b",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9915239000000.jpg",
+                "path": "full/e498bf3baffd3bf400f7a8ff6bc88a28c255bc4d.jpg",
+                "checksum": "c5ff114bfa1e44d47da8f6a8fd4c232c",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9915307000000.png",
+                "path": "full/37139f9cec3f155645a09b00a1d8c81a09c287b8.jpg",
+                "checksum": "8103ee280de769771a3ba9b192f4809e",
+                "status": "uptodate"
+            }
+        ]
+    },
+    {
+        "category_name": "Fruits & Vegetables",
+        "category_img_url": "//almeera.online/var/images/category/383.400/banner%202.jpg",
+        "subcategory_name": "Fruits",
+        "subcategory_img_url": "//almeera.online/var/images/category/383.400/9910905000001.jpg",
+        "products": [
+            {
+                "product_name": "fruits-2/kmthr\u0649",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9910057000001.jpg",
+                "product_price": "QAR25"
+            },
+            {
+                "product_name": "fruits-2/watermelon-imp-australia",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9911243000001.jpg",
+                "product_price": "QAR29"
+            },
+            {
+                "product_name": "fruits-2/apple-kanzi-kg",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9911058000001.jpg",
+                "product_price": "QAR26.50"
+            },
+            {
+                "product_name": "fruits-2/coconut-vietnam",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9910658000001.jpg",
+                "product_price": "QAR6.75"
+            },
+            {
+                "product_name": "fruits-2/pineapple-ghana",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9911747000001.jpg",
+                "product_price": "QAR13.75"
+            }
+        ],
+        "images": [
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9910057000001.jpg",
+                "path": "full/5218ca88f9967b33f20919e10ad735376f4c926f.jpg",
+                "checksum": "6b17c6cdb301c4acb3a0fbdb49ef7547",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9911243000001.jpg",
+                "path": "full/c5a9db6fdee835dfdddf83b331ab0c0fa35df22e.jpg",
+                "checksum": "7b4b12c582edf6b9ec56b29b62edbb5f",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9911058000001.jpg",
+                "path": "full/e45e2eba2e359484ac8b103d25a58ef0d0493ec5.jpg",
+                "checksum": "b041c42f0b4132b5d7b33149387efcd4",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9910658000001.jpg",
+                "path": "full/4c445f0b3a2f5f9258b9c21e85b5c90407764345.jpg",
+                "checksum": "a159f42198b6e54ec9af91ae30d584e1",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9911747000001.jpg",
+                "path": "full/c5813399ecbd0c07cbac6ecae6012e8cb1ada70d.jpg",
+                "checksum": "2589418c9cc41f5e960e61bb27ad03b3",
+                "status": "uptodate"
+            }
+        ]
+    },
+    {
+        "category_name": "Delicatessen",
+        "category_img_url": "//almeera.online/var/images/category/383.400/banner.jpg",
+        "subcategory_name": "Cold Cuts",
+        "subcategory_img_url": "//almeera.online/var/images/category/383.400/6297000731629.png",
+        "products": [
+            {
+                "product_name": "cold-cuts-1/namyt-gambon-lhm-bkry-mktaa-shrayh-aabo\u0629-150gh",
+                "product_img_url": "//almeera.online/var/images/product/200.220/8692415400166.jpg",
+                "product_price": "QAR15.50"
+            },
+            {
+                "product_name": "cold-cuts-1/gormyh-myny-mrtdyla-bkry-balzyton-250gh",
+                "product_img_url": "//almeera.online/var/images/product/200.220/6297000731599.jpg",
+                "product_price": "QAR8"
+            },
+            {
+                "product_name": "cold-cuts-1/rigamonti-bresaola-70g",
+                "product_img_url": "//almeera.online/var/images/product/200.220/8004147000147.jpg",
+                "product_price": "QAR19.50"
+            },
+            {
+                "product_name": "cold-cuts-1/el-mazraa-chicken-salami-cheese-200g",
+                "product_img_url": "//almeera.online/var/images/product/200.220/6191505100631.jpg",
+                "product_price": "QAR6.75"
+            },
+            {
+                "product_name": "cold-cuts-1/el-mazraa-chicken-super-salami-650g",
+                "product_img_url": "//almeera.online/var/images/product/200.220/6191505100815.jpg",
+                "product_price": "QAR13.75"
+            }
+        ],
+        "images": [
+            {
+                "url": "https://almeera.online/var/images/product/200.220/8692415400166.jpg",
+                "path": "full/e1e480a2d5970b766b93404dd21f539a1c55d4fe.jpg",
+                "checksum": "0c4924395d88bc81c043f3b0681f355a",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/6297000731599.jpg",
+                "path": "full/073fcaee27a94789f4af036c59e0a9eddf790568.jpg",
+                "checksum": "d6528a6655d06360c92531ecb44be923",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/8004147000147.jpg",
+                "path": "full/0312a8386131bf7843831b6a2b02f9c447bc8809.jpg",
+                "checksum": "fe7da2e2a973c709575a089d57d11178",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/6191505100631.jpg",
+                "path": "full/0b515ee4af468c6ec0775e853beca3c3ba449701.jpg",
+                "checksum": "6b193d51604773ee5b91b6035b0e36dd",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/6191505100815.jpg",
+                "path": "full/5f5ab6405f7cd03cd32fdef0fd9e42afb050de3c.jpg",
+                "checksum": "0a6429cf083eea401154271f6ff2f8b3",
+                "status": "uptodate"
+            }
+        ]
+    },
+    {
+        "category_name": "Meat & Seafood",
+        "category_img_url": "//almeera.online/var/images/category/383.400/banner%2011.jpg",
+        "subcategory_name": "Seafood",
+        "subcategory_img_url": "//almeera.online/var/images/category/383.400/9913282000000.jpg",
+        "products": [
+            {
+                "product_name": "seafood-2/badha-medium-per-kg-",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9913152000000.jpg",
+                "product_price": "QAR15"
+            },
+            {
+                "product_name": "seafood-2/seman-medium-per-kg-",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9913160000000.jpg",
+                "product_price": "QAR19"
+            },
+            {
+                "product_name": "seafood-2/seman-big-per-kg-",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9913044000000.jpg",
+                "product_price": "QAR23"
+            },
+            {
+                "product_name": "seafood-2/qurkivan-medium-per-kg-",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9913017000000.jpg",
+                "product_price": "QAR13"
+            },
+            {
+                "product_name": "seafood-2/jd-barracuda-medium-per-kg-",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9913181000000.jpg",
+                "product_price": "QAR15"
+            }
+        ],
+        "images": [
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9913152000000.jpg",
+                "path": "full/4dadfe68bfad594527f4cf96e8fa9fe0de48e51a.jpg",
+                "checksum": "65060aabb28ad07384df81943d9ba565",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9913160000000.jpg",
+                "path": "full/35baee98a894e6aee525a63db4452655a352de50.jpg",
+                "checksum": "21c77698a37b25e239f23d0005d603ec",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9913044000000.jpg",
+                "path": "full/2b21093224a5f8ad33c5f1686f6eea8c7e46fdd7.jpg",
+                "checksum": "1e2b78b44c845631f3b67f3a9b9caf72",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9913017000000.jpg",
+                "path": "full/9f158aa26f690ad480e90154da553103ca9d1948.jpg",
+                "checksum": "1f6e4e1b6a3bc78b7e0bb6e079d23450",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9913181000000.jpg",
+                "path": "full/f3aa15b1cf2470b879a0407cf195ca54b9535f1e.jpg",
+                "checksum": "acf395ca6c447ec6fb32b073e3b06aa2",
+                "status": "uptodate"
+            }
+        ]
+    },
+    {
+        "category_name": "Bakery & Pastry",
+        "category_img_url": "//almeera.online/var/images/category/383.400/bakery.jpg",
+        "subcategory_name": "Fresh",
+        "subcategory_img_url": "//almeera.online/var/images/category/383.400/9918872000000.jpg",
+        "products": [
+            {
+                "product_name": "fresh/sd-bread-protien-small-350g",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9914392000000.jpg",
+                "product_price": "QAR8.50"
+            },
+            {
+                "product_name": "fresh/sd-bread-protien-small-350g-1",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9918576000000.jpg",
+                "product_price": "QAR8.50"
+            },
+            {
+                "product_name": "fresh/muffin-blueberry-40g-x-8",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9914371000000.jpg",
+                "product_price": "QAR10.50"
+            },
+            {
+                "product_name": "fresh/hopia-ube",
+                "product_img_url": "//almeera.online/var/images/product/200.220/6291105019620.jpg",
+                "product_price": "QAR8"
+            },
+            {
+                "product_name": "fresh/cake-chocolate-fudge-1-kg",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9914760000000.jpg",
+                "product_price": "QAR85"
+            }
+        ],
+        "images": [
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9914392000000.jpg",
+                "path": "full/958557e47c0f312d17015460200528cbbb55242e.jpg",
+                "checksum": "041488a6b48cde62cf4a80e013e00021",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9918576000000.jpg",
+                "path": "full/9d8b73d91d9cef9be3e1790e9467b5c23226eb96.jpg",
+                "checksum": "2e056c6afcf754c5d43b6e928c5b1878",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9914371000000.jpg",
+                "path": "full/52b7a31a097faa2f2588e6240ee4c3b9caeb3fd2.jpg",
+                "checksum": "f6e7e5a281d664d714a254cadcdef72f",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/6291105019620.jpg",
+                "path": "full/3da6bdc436d8c02fc4ddbe652d67c1e1674034b8.jpg",
+                "checksum": "5126f3f51eb255192d2717957af14c12",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9914760000000.jpg",
+                "path": "full/45ab85fda650c0ffc5cd5ab917383f726caec2aa.jpg",
+                "checksum": "28cbbbb0998a7ae3d1e45a9aa55258bc",
+                "status": "uptodate"
+            }
+        ]
+    },
+    {
+        "category_name": "Delicatessen",
+        "category_img_url": "//almeera.online/var/images/category/383.400/banner.jpg",
+        "subcategory_name": "Cheese",
+        "subcategory_img_url": "//almeera.online/var/images/category/383.400/9913841000000.jpg",
+        "products": [
+            {
+                "product_name": "cheese/amanti-black-peppercheese-per-kg-",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9915421000000.jpg",
+                "product_price": "QAR49.75"
+            },
+            {
+                "product_name": "cheese/daily-dairy-emmentaler-per-kg-",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9915139000000.jpg",
+                "product_price": "QAR39.75"
+            },
+            {
+                "product_name": "cheese/baladna-fresh-cream-local-per-kg-",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9915593000000.jpg",
+                "product_price": "QAR38.75"
+            },
+            {
+                "product_name": "cheese/al-amal-low-salt-white-cheese-bulgari-per-kg-",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9913753000000.jpg",
+                "product_price": "QAR45.75"
+            },
+            {
+                "product_name": "cheese/cheese-cow-bulgaria-per-kg-",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9915033000000.jpg",
+                "product_price": "QAR59.75"
+            }
+        ],
+        "images": [
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9915421000000.jpg",
+                "path": "full/5bf5d383dbaddd0f540838c594eed902d5b25d65.jpg",
+                "checksum": "d4e1065fe0077361cf1574d5ec32a902",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9915139000000.jpg",
+                "path": "full/023ba9bf2cdcb27a81b0e113c130aa74a0d9f836.jpg",
+                "checksum": "676a566f8f9133608188cf0d2264427d",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9915593000000.jpg",
+                "path": "full/45624962fa31c1d4ef4861b7ad9376fae4c9a10b.jpg",
+                "checksum": "edceee9aad70fcab1144ac7a33b27c78",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9913753000000.jpg",
+                "path": "full/c9206d3b153692d7688f2162f2c4f47279233d05.jpg",
+                "checksum": "5cfc1e8546f3c124c74354a401ac57fe",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9915033000000.jpg",
+                "path": "full/deb8487284013784cb2eae3a3de6e7306579d4d0.jpg",
+                "checksum": "fdad2f62f0638595aaea18e3d253dc16",
+                "status": "uptodate"
+            }
+        ]
+    },
+    {
+        "category_name": "Meat & Seafood",
+        "category_img_url": "//almeera.online/var/images/category/383.400/banner%2011.jpg",
+        "subcategory_name": "Beef & Veal",
+        "subcategory_img_url": "//almeera.online/var/images/category/383.400/9912951000000.jpg",
+        "products": [
+            {
+                "product_name": "beef-and-veal/beef-burger-australia-per-kg-",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9912153000000_1.jpg",
+                "product_price": "QAR42.75"
+            },
+            {
+                "product_name": "beef-and-veal/beef-sausage-australia-per-kg-",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9912859000000.jpg",
+                "product_price": "QAR42.75"
+            },
+            {
+                "product_name": "beef-and-veal/beef-cube-roll-vac-rsa-per-kg-",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9912544000000.jpg",
+                "product_price": "QAR64.75"
+            },
+            {
+                "product_name": "beef-and-veal/beef-thin-slice-rsa-per-kg-",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9912456000000_1.jpg",
+                "product_price": "QAR41.75"
+            },
+            {
+                "product_name": "beef-and-veal/beef-stir-fry-rsa-per-kg-",
+                "product_img_url": "//almeera.online/var/images/product/200.220/9912396000000.jpg",
+                "product_price": "QAR41.75"
+            }
+        ],
+        "images": [
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9912153000000_1.jpg",
+                "path": "full/69b902b79db9febb8fe6ccee199cca444e9ae863.jpg",
+                "checksum": "d150545e3dd5e99b560ed6e7ddacfd2f",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9912859000000.jpg",
+                "path": "full/35069451fbb6f6c3e0c72de6904c9f49bc87098b.jpg",
+                "checksum": "1fc4ca2a9ddccaac94a9d3e24f9d67e1",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9912544000000.jpg",
+                "path": "full/be29c07baa88dce120d2bc6526e5883bf06fe2a6.jpg",
+                "checksum": "f5d403fadcddbd3552fd6a328ce3db34",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9912456000000_1.jpg",
+                "path": "full/3e297ecd266ff24044aeed2fd43f8e5b29f26127.jpg",
+                "checksum": "fa48f041e1173bff0774be5ea08e2ffd",
+                "status": "uptodate"
+            },
+            {
+                "url": "https://almeera.online/var/images/product/200.220/9912396000000.jpg",
+                "path": "full/158e1e60808f311dcafa715ba9a332b1d99a6d5f.jpg",
+                "checksum": "8cc84a84a09939d0adfd73adcc5e38cc",
+                "status": "uptodate"
+            }
+        ]
+    }
+]

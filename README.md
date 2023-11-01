@@ -1,7 +1,8 @@
 # almeera
-First activate the virtual environment by
-.venv\Scripts\activate (For Windows)
-source .venv/bin/activate (For Linux)
-To run spider ,  cd almeera  
-then 
-scrapy crawl almeera_data
+First activate the virtual environment by <br/>
+#.venv\Scripts\activate (For Windows) <br/>
+#source .venv/bin/activate (For Linux) <br/>
+To run spider , <br/>
+#cd almeera  <br/>
+then  <br/>
+#scrapy crawl almeera_data

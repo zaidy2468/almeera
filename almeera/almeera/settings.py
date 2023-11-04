@@ -12,7 +12,7 @@ BOT_NAME = "almeera"
 SPIDER_MODULES = ["almeera.spiders"]
 NEWSPIDER_MODULE = "almeera.spiders"
 FEED_FORMAT = 'json'
-FEED_URI = 'output.json'  # Specify the desired output file name and path
+#FEED_URI = 'output.json'  # Specify the desired output file name and path
 
 
 # Specify the location where images will be stored

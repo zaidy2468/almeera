@@ -16,7 +16,7 @@ class AlmeeraItem(scrapy.Item):
     subcategory_img_url=scrapy.Field()
     products=scrapy.Field()
     image_urls = scrapy.Field()
-    images=scrapy.Field()
+    #images=scrapy.Field()
     pass
 
 

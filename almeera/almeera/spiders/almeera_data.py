@@ -4,6 +4,8 @@ import scrapy
 from ..items import AlmeeraItem
 
 
+
+
 class AlmeeraDataSpider(scrapy.Spider):
     name = "almeera_data"
     allowed_domains = ["almeera.online"]
@@ -21,11 +23,6 @@ class AlmeeraDataSpider(scrapy.Spider):
             category_name=category.xpath('//*[@id="content"]/div/div/div[3]/div/ul/li['+str(i)+']/a/span[2]/text()').extract_first()
             category_img_url=category.xpath('//*[@id="content"]/div/div/div[3]/div/ul/li['+str(i)+']/a/span[1]/img/@src').extract_first()
             category_pg_url=response.urljoin(category.xpath('//*[@id="content"]/div/div/div[3]/div/ul/li['+str(i)+']/a/@href').extract_first())
-
-
-
-
-
 
 
 
@@ -83,13 +80,19 @@ class AlmeeraDataSpider(scrapy.Spider):
             clean_image_urls.append(response.urljoin(product_img_url))
 
             product_price=product.css('span.price.product-price::text').extract_first()
+
+
+
+
             product_dict={
                 'product_name':product_name,
                 'product_img_url':product_img_url,
-                'product_price':product_price
-            }
-            product_list.append(product_dict)
+                'product_price':product_price,
 
+            }
+
+            product_list.append(product_dict)
+            yield scrapy.Request(response.urljoin(product_name), callback=self.parse_SKU,cb_kwargs={'product_dict':product_dict})
 
 
 
@@ -122,3 +125,11 @@ class AlmeeraDataSpider(scrapy.Spider):
         if next_page:
          yield scrapy.Request(response.urljoin(str(next_page)),callback=self.parse_products,cb_kwargs={'category_name':kwargs.get('category_name'),'category_img_url':kwargs.get('category_img_url'),'subcategory_name':kwargs.get('subcategory_name'),'subcategory_img_url':kwargs.get('subcategory_img_url'),'visited':True})
 
+    def parse_SKU(self,response,product_dict):
+        product_SKU=response.css('span.value::text').extract_first()
+        check=True
+        for char in product_SKU:
+            if not char.isdigit():
+                check=False
+        if check:
+            product_dict['products_SKU']=product_SKU
